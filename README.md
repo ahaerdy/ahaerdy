@@ -1,12 +1,11 @@
-# 👋 Apresentação
-
+# Arthur Haerdy Jr (Apresentação)
 Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistemas, administração de servidores Linux e integração de soluções de infraestrutura com software. Ao longo da minha trajetória, atuei em projetos de engenharia, telecomunicações, pesquisa científica aplicada e desenvolvimento institucional com foco em tecnologia educacional.
 
 Tenho especial interesse em projetos que envolvam backend, automação, integração de APIs e arquitetura Linux. Atualmente, mantenho este espaço como um repositório técnico para divulgar projetos reais, organizar estudos de linguagem e compartilhar boas práticas.
 
 ---
 
-## 💼 Experiência técnica aplicada
+## Experiência técnica aplicada
 
 🔧 Administração de servidores Linux (CentOS, Debian, FreeBSD)  
 🔧 Desenvolvimento Web com PHP, HTML, JavaScript e MySQL  
@@ -18,7 +17,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 🔹 [Sistema Web Institucional](https://github.com/ahaerdy/sistema-web-institucional)  
 Plataforma educacional com painel de acesso hierarquizado, gestão de conteúdo, integração de pagamentos e suporte a centenas de usuários. Desenvolvido e mantido por mais de uma década.
