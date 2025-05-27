@@ -25,14 +25,6 @@ Plataforma educacional com painel de acesso hierarquizado, gestão de conteúdo,
 
 ---
 
-## 📘 Formação
-
-🎓 Engenheiro Eletrônico - UFRJ  
-📚 Pós-graduação (não concluída) em Processamento de Sinais - COPPE/UFRJ  
-🔬 Participação em projeto acadêmico com o CERN para aplicação de Redes Neurais em filtragem de eventos no LHC, com programação paralela em linguagem C (Telmat T.Node / transputers).
-
----
-
 ## 📚 Estudos e desenvolvimento contínuo
 
 Estou continuamente reforçando habilidades em:
