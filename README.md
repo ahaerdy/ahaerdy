@@ -1,4 +1,4 @@
-# 👋 Olá, sou Arthur Haerdy Junior
+# 👋 Apresentação
 
 Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistemas, administração de servidores Linux e integração de soluções de infraestrutura com software. Ao longo da minha trajetória, atuei em projetos de engenharia, telecomunicações, pesquisa científica aplicada e desenvolvimento institucional com foco em tecnologia educacional.
 
