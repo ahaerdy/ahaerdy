@@ -47,7 +47,7 @@ Estou continuamente reforçando habilidades em:
 ## 📬 Contato
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-haerdy-jr/)
-- ✉️ arthurhaerdy@gmail.com
+- ✉️ arthur.haerdy@gmail.com
 - 🌐 Marília/SP — disponível para trabalho remoto ou presencial
 
 ---
