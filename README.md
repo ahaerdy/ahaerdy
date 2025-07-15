@@ -6,7 +6,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-### Stacks
+## Stacks
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-### Experiência técnica aplicada
+## Experiência técnica aplicada
 
 🔧 Administração de servidores Linux (CentOS, Debian, FreeBSD)  
 🔧 Desenvolvimento Web com PHP, HTML, JavaScript e MySQL  
@@ -66,14 +66,14 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-### Projetos em destaque
+## Projetos em destaque
 
 🔹 [Sistema Web Institucional](https://github.com/ahaerdy/sistema-web-institucional)  
 Plataforma educacional com painel de acesso hierarquizado, gestão de conteúdo, integração de pagamentos e suporte a centenas de usuários. Desenvolvido e mantido por mais de uma década.
 
 ---
 
-### 📚 Estudos e desenvolvimento contínuo
+## 📚 Estudos e desenvolvimento contínuo
 
 Estou continuamente reforçando habilidades em:
 
@@ -85,7 +85,7 @@ Estou continuamente reforçando habilidades em:
 
 ---
 
-### 🧭 O que você encontrará aqui
+## 🧭 O que você encontrará aqui
 
 📁 Projetos reais com escopo completo (infra, código, banco, lógica de acesso)  
 📁 Scripts utilitários, estudos de linguagem e experiências técnicas  
@@ -93,7 +93,7 @@ Estou continuamente reforçando habilidades em:
 
 ---
 
-### 📬 Contatos
+## 📬 Contatos
 
 <!-- Contact Badges -->
 <!-- <p align="center"> -->
