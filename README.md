@@ -110,11 +110,6 @@ Estou continuamente reforçando habilidades em:
 ---
 
 ## 🧭 O que você encontrará aqui
----
-
-## 📬 Contatos
-
-
 
 ---
 📁 Projetos reais com escopo completo (infra, código, banco, lógica de acesso)  
