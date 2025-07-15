@@ -5,7 +5,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-<h4>Stacks</h4>
+## Stacks
 
 <div align="center">
   
