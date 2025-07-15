@@ -95,9 +95,6 @@ Estou continuamente reforçando habilidades em:
 
 ## 📬 Contatos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-haerdy-jr/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arthur.haerdy@gmail.com)
-
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
