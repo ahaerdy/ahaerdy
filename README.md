@@ -111,7 +111,6 @@ Estou continuamente reforçando habilidades em:
 
 ## 🧭 O que você encontrará aqui
 
----
 📁 Projetos reais com escopo completo (infra, código, banco, lógica de acesso)  
 📁 Scripts utilitários, estudos de linguagem e experiências técnicas  
 📁 Estruturas organizadas, código comentado e documentação clara
