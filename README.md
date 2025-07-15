@@ -1,9 +1,5 @@
 # Arthur Haerdy Jr 
 
-Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistemas, administração de servidores Linux e integração de soluções de infraestrutura com software. Ao longo da minha trajetória, atuei em projetos de engenharia, telecomunicações, pesquisa científica aplicada e desenvolvimento institucional com foco em tecnologia educacional.
-
-Tenho especial interesse em projetos que envolvam backend, automação, integração de APIs e arquitetura Linux. Atualmente, mantenho este espaço como um repositório técnico para divulgar projetos reais, organizar estudos de linguagem e compartilhar boas práticas.
-
 <!-- Contact Badges -->
 <!-- <p align="center"> -->
   <!-- LinkedIn Badge -->
@@ -29,6 +25,10 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
     <img alt="Starred Repositories" title="Repositórios que favoritei" 
          src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
+
+Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistemas, administração de servidores Linux e integração de soluções de infraestrutura com software. Ao longo da minha trajetória, atuei em projetos de engenharia, telecomunicações, pesquisa científica aplicada e desenvolvimento institucional com foco em tecnologia educacional.
+
+Tenho especial interesse em projetos que envolvam backend, automação, integração de APIs e arquitetura Linux. Atualmente, mantenho este espaço como um repositório técnico para divulgar projetos reais, organizar estudos de linguagem e compartilhar boas práticas.
 
 
 ---
