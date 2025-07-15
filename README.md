@@ -95,10 +95,9 @@ Estou continuamente reforçando habilidades em:
 
 ## 📬 Contato
 
-- <a href="https://www.linkedin.com/in/arthur-haerdy-jr/" target="_blank">
-  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" style="vertical-align:middle;"/> LinkedIn
-</a>
-- arthur.haerdy@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-haerdy-jr/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arthur.haerdy@gmail.com)
+
 
 ---
 
