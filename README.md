@@ -5,7 +5,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
+<h3>Stacks /h3>
 
 <div align="center">
   
