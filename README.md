@@ -73,7 +73,7 @@ Plataforma educacional com painel de acesso hierarquizado, gestão de conteúdo,
 
 ---
 
-## 📚 Estudos e desenvolvimento contínuo
+## Estudos e desenvolvimento contínuo
 
 Estou continuamente reforçando habilidades em:
 
@@ -85,7 +85,7 @@ Estou continuamente reforçando habilidades em:
 
 ---
 
-## 🧭 O que você encontrará aqui
+## O que você encontrará aqui
 
 📁 Projetos reais com escopo completo (infra, código, banco, lógica de acesso)  
 📁 Scripts utilitários, estudos de linguagem e experiências técnicas  
@@ -96,7 +96,7 @@ Estou continuamente reforçando habilidades em:
 ## 📬 Contatos
 
 <!-- Contact Badges -->
-<p align="center">
+<!-- <p align="center"> --> 
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/arthur-haerdy-jr/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
@@ -120,8 +120,6 @@ Estou continuamente reforçando habilidades em:
     <img alt="Starred Repositories" title="Repositórios que favoritei" 
          src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
-
-  <!-- GitHub
 
 
 ---
