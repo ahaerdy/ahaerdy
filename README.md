@@ -93,7 +93,7 @@ Estou continuamente reforçando habilidades em:
 
 ---
 
-## 📬 Contatos
+## Contatos
 
 <!-- Contact Badges -->
 <!-- <p align="center"> --> 
