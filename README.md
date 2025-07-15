@@ -7,8 +7,6 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ## Stacks
 
-## Stacks
-
 <div align="center">
 
   <!-- 🧠 Linguagens de Programação -->
