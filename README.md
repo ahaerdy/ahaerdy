@@ -7,34 +7,50 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ## Stacks
 
+## Stacks
+
 <div align="center">
 
-  <!-- Controle de versão -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  <!-- Sistema operacional / Terminal -->
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-  <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
-  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-  <!-- Linguagens de programação -->
+  <!-- 🧠 Linguagens de Programação -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-  <!-- Web -->
+  <!-- 🌐 Desenvolvimento Web -->
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- DevOps / Ferramentas -->
+  <!-- 🐧 Distribuições Linux -->
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
+
+  <!-- 🔐 Infraestrutura e Segurança -->
+  <img alt="iptables" src="https://img.shields.io/badge/iptables-FIREWALL?style=for-the-badge&logo=linux&logoColor=white&color=orange" />
+  <img alt="Squid Proxy" src="https://img.shields.io/badge/Squid_Proxy-232F3E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Samba" src="https://img.shields.io/badge/Samba-1D222D?style=for-the-badge&logo=samba&logoColor=white" />
+  <img alt="NFS" src="https://img.shields.io/badge/NFS-204A87?style=for-the-badge&logo=linux&logoColor=white" />
+
+  <!-- 🧰 Serviços e Protocolos -->
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img alt="Postfix" src="https://img.shields.io/badge/Postfix-EA3C00?style=for-the-badge&logo=gnu&logoColor=white" />
+  <img alt="FTP" src="https://img.shields.io/badge/FTP-00457C?style=for-the-badge&logo=ftp&logoColor=white" />
+  <img alt="DNS BIND" src="https://img.shields.io/badge/BIND-DNS?style=for-the-badge&logo=linux&logoColor=white&color=blue" />
+  <img alt="XMPP" src="https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=white" />
+
+  <!-- 🛠️ Ferramentas DevOps e Colaboração -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
+
 
 
 ---
