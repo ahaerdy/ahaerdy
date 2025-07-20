@@ -28,6 +28,12 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
     <img alt="Starred Repositories" title="Repositórios que favoritei" 
          src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" 
          style="height: 27px;" /></a>
+
+  <!-- Following Badge -->
+  <a href="https://github.com/ahaerdy?tab=following" style="text-decoration: none;">
+    <img alt="Following" title="Pessoas que estou seguindo no GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-Following-282A36?style=for-the-badge&logo=people&logoColor=white&labelColor=634781" 
+         style="height: 27px;" /></a>
 </p>
 
 ---
