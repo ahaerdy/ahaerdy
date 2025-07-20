@@ -127,4 +127,5 @@ Estou continuamente reforçando habilidades em:
 
 ---
 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ahaerdy?tab=following)
 [Following](https://github.com/ahaerdy?tab=following) / [Followers](https://github.com/ahaerdy?tab=followers)
