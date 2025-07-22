@@ -107,7 +107,7 @@ Estou continuamente reforçando habilidades em:
 - Documentação técnica e arquitetura de sistemas
 - Experimentos com APIs, scripts de implantação e microsserviços
 
-Repositórios de estudos:
+### Repositórios de estudos
 
 - [**DIO-Learning**](https://github.com/ahaerdy/DIO-Learning)  
   Espaço onde documento minha jornada de aprendizado na plataforma Digital Innovation One (DIO). Local onde organizo anotações, códigos e projetos dos cursos e bootcamps. 
