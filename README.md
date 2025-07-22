@@ -107,10 +107,10 @@ Estou continuamente reforçando habilidades em:
 - Documentação técnica e arquitetura de sistemas
 - Experimentos com APIs, scripts de implantação e microsserviços
 
-Estudos em anadmanto:
+Repositórios:
 
 - [**DIO-Learning**](https://github.com/ahaerdy/DIO-Learning)  
-  Repositório dedicado ao acompanhamento do Bootcamp Suzano Python Developer da Digital Innovation One (DIO), contendo exercícios, anotações e soluções pessoais.
+  Repositório onde documento minha jornada de aprendizado na plataforma Digital Innovation One (DIO), onde organizo anotações, códigos e projetos dos cursos e bootcamps que realizo, como o Bootcamp Suzano Python Developer e outras formações em Front-End, Back-End e tecnologias como Python e JavaScript. O objetivo é manter um registro claro e atualizado do desenvolvimento técnico, facilitando estudos futuros e compartilhamento com a comunidade.
 
 - [**Freecodecamp-Learning**](https://github.com/ahaerdy/Freecodecamp-Learning)  
   Espaço para desenvolvimento de projetos e estudo das trilhas do FreeCodeCamp, com foco em desenvolvimento web, lógica e práticas essenciais para programadores.
