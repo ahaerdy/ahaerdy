@@ -110,10 +110,10 @@ Estou continuamente reforçando habilidades em:
 Repositórios de estudos:
 
 - [**DIO-Learning**](https://github.com/ahaerdy/DIO-Learning)  
-  Repositório onde documento minha jornada de aprendizado na plataforma Digital Innovation One (DIO). Espaço onde organizo anotações, códigos e projetos dos cursos e bootcamps. 
+  Espaço onde documento minha jornada de aprendizado na plataforma Digital Innovation One (DIO). Local onde organizo anotações, códigos e projetos dos cursos e bootcamps. 
 
 - [**Freecodecamp-Learning**](https://github.com/ahaerdy/Freecodecamp-Learning)  
-  Espaço para desenvolvimento de projetos e estudo das trilhas do FreeCodeCamp, com foco em desenvolvimento web, lógica e práticas essenciais.
+  Projetos e estudo das trilhas do FreeCodeCamp, com foco em desenvolvimento web, lógica e práticas essenciais.
 
 
 ---
