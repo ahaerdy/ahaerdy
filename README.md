@@ -111,6 +111,7 @@ Estou continuamente reforçando habilidades em:
 
 - [**DIO-Learning**](https://github.com/ahaerdy/DIO-Learning)  
   Espaço onde documento minha jornada de aprendizado na plataforma Digital Innovation One (DIO). 
+  - [Repositório de Estudos - Bootcamp Suzano Python Developer](https://github.com/ahaerdy/dio-learning/tree/main/Suzano%20-%20Python%20Developer)
   
 - [**Freecodecamp-Learning**](https://github.com/ahaerdy/Freecodecamp-Learning)  
   Projetos e estudo das trilhas do FreeCodeCamp, com foco em desenvolvimento web, lógica e práticas essenciais.
