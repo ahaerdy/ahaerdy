@@ -128,7 +128,3 @@ Estou continuamente reforçando habilidades em:
 ---
 
 💡 Busco colaborar com soluções eficientes, éticas e bem estruturadas.
-
----
-
-- [Following](https://github.com/ahaerdy?tab=following) / [Followers](https://github.com/ahaerdy?tab=followers)
