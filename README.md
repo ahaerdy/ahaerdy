@@ -113,6 +113,7 @@ Estou continuamente reforçando habilidades em:
   Espaço onde documento minha jornada de aprendizado na plataforma Digital Innovation One (DIO). 
   - [Bootcamp Suzano Python Developer](https://github.com/ahaerdy/dio-learning/tree/main/Suzano%20-%20Python%20Developer)
   - [Bootcamp NTT DATA Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
+  - [Formação JavaScript Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Javascript%20Developer)
   
 - [**Freecodecamp-Learning**](https://github.com/ahaerdy/Freecodecamp-Learning)  
   Projetos e estudo das trilhas do FreeCodeCamp, com foco em desenvolvimento web, lógica e práticas essenciais.
