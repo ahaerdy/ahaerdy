@@ -6,6 +6,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 <details>
 <summary> 📁 Meu perfil em código </summary>
+
 ```javascript
 const dev = {
   name: "Arthur AHerdy",
