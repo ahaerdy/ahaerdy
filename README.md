@@ -9,7 +9,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ```javascript
 const dev = {
-  name: "Arthur AHerdy",
+  name: "Arthur Haerdy",
   role: "Engenheiro Eletrônico / Administrador de Sistemas Linux / Analista de Dados / Programador Full Stack"
 };
 
