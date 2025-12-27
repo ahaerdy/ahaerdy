@@ -4,6 +4,8 @@ Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistem
 
 Tenho especial interesse em projetos que envolvam backend, automação, integração de APIs e arquitetura Linux. Atualmente, mantenho este espaço como um repositório técnico para divulgar projetos reais, organizar estudos de linguagem e compartilhar boas práticas.
 
+<details>
+<summary> 📁 Meu perfil em código </summary>
 ```javascript
 const dev = {
   name: "Arthur AHerdy",
@@ -24,6 +26,7 @@ class DeveloperProfile {
 const devProfile = new DeveloperProfile(dev);
 devProfile.getDeveloperInfo();
 ```
+</details>
 
 <!-- Contact Badges -->
 <p align="center"> 
