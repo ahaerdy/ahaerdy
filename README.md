@@ -25,12 +25,6 @@ class DeveloperProfile {
   }
 }
 
-const devProfile = new DeveloperProfile(dev);
-devProfile.getDeveloperInfo();
-```
-</div>
-</details></div>
-
 <!-- Contact Badges -->
 <p align="center"> 
   <!-- LinkedIn Badge -->
