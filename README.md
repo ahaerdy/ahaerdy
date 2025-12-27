@@ -4,27 +4,6 @@ Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistem
 
 Tenho especial interesse em projetos que envolvam backend, automação, integração de APIs e arquitetura Linux. Atualmente, mantenho este espaço como um repositório técnico para divulgar projetos reais, organizar estudos de linguagem e compartilhar boas práticas.
 
-<div align="center"> <details>
-<summary> 📁 Arthur AHerdy – Perfil em JavaScript \📁 </summary>
-<div align="left">
-
-```javascript
-const dev = {
-  name: "Arthur Haerdy",
-  role: "Engenheiro Eletrônico / Administrador de Sistemas Linux / Analista de Dados / Programador Full Stack"
-};
-
-class DeveloperProfile {
-  constructor(developer) {
-    this.developer = developer;
-  }
-
-  getDeveloperInfo() {
-    console.log("Name:", this.developer.name);
-    console.log("Role:", this.developer.role);
-  }
-}
-
 <!-- Contact Badges -->
 <p align="center"> 
   <!-- LinkedIn Badge -->
