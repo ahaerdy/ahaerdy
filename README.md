@@ -76,6 +76,28 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 </div>
 
+```javascript
+const dev = {
+  name: "Arthur AHerdy",
+  role: "Engenheiro Eletrônico / Administrador de Sistemas Linux / Analista de Dados / Programador Full Stack"
+};
+
+class DeveloperProfile {
+  constructor(developer) {
+    this.developer = developer;
+  }
+
+  getDeveloperInfo() {
+    console.log("Name:", this.developer.name);
+    console.log("Role:", this.developer.role);
+  }
+}
+
+const devProfile = new DeveloperProfile(dev);
+devProfile.getDeveloperInfo();
+```
+
+
 ---
 
 ## Experiência técnica aplicada
