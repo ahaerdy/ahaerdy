@@ -3,28 +3,6 @@
 Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistemas, administração de servidores Linux e integração de soluções de infraestrutura com software. Ao longo da minha trajetória, atuei em projetos de engenharia, telecomunicações, pesquisa científica aplicada e desenvolvimento institucional com foco em tecnologia educacional.
 
 Tenho especial interesse em projetos que envolvam backend, automação, integração de APIs e arquitetura Linux. Atualmente, mantenho este espaço como um repositório técnico para divulgar projetos reais, organizar estudos de linguagem e compartilhar boas práticas.
-
-```javascript
-const dev = {
-  name: "Arthur AHerdy",
-  role: "Engenheiro Eletrônico / Administrador de Sistemas Linux / Analista de Dados / Programador Full Stack"
-};
-
-class DeveloperProfile {
-  constructor(developer) {
-    this.developer = developer;
-  }
-
-  getDeveloperInfo() {
-    console.log("Name:", this.developer.name);
-    console.log("Role:", this.developer.role);
-  }
-}
-
-const devProfile = new DeveloperProfile(dev);
-devProfile.getDeveloperInfo();
-```
-
 <!-- Contact Badges -->
 <p align="center"> 
   <!-- LinkedIn Badge -->
@@ -97,6 +75,28 @@ devProfile.getDeveloperInfo();
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
+
+```javascript
+const dev = {
+  name: "Arthur AHerdy",
+  role: "Engenheiro Eletrônico / Administrador de Sistemas Linux / Analista de Dados / Programador Full Stack"
+};
+
+class DeveloperProfile {
+  constructor(developer) {
+    this.developer = developer;
+  }
+
+  getDeveloperInfo() {
+    console.log("Name:", this.developer.name);
+    console.log("Role:", this.developer.role);
+  }
+}
+
+const devProfile = new DeveloperProfile(dev);
+devProfile.getDeveloperInfo();
+```
+
 
 ---
 
