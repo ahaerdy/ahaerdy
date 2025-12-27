@@ -6,7 +6,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 <div align="center"> <details>
 <summary> 📁 Arthur AHerdy – Perfil em JavaScript </summary>
-
+<div align="left">
 ```javascript
 const dev = {
   name: "Arthur Haerdy",
@@ -27,6 +27,7 @@ class DeveloperProfile {
 const devProfile = new DeveloperProfile(dev);
 devProfile.getDeveloperInfo();
 ```
+</div>
 </details></div>
 
 <!-- Contact Badges -->
