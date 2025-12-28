@@ -140,4 +140,5 @@ Estou continuamente reforçando habilidades em:
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=default)
 ![Detalhes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=default)
 
+## 📊 Estatísticas de Linguagens ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahaerdy&layout=compact&theme=radical)
 
