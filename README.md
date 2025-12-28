@@ -78,7 +78,6 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 </div>
 
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=default)
-![Detalhes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=default)
 
 
 ---
