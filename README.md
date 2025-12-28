@@ -137,14 +137,6 @@ Estou continuamente reforçando habilidades em:
 
 <div align="center">
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=default)
-</div>
-
-
----
-
-<div align="center">
-
 <!-- Tema padrão -->
 <!--![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=default)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=default) -->
@@ -159,7 +151,7 @@ Estou continuamente reforçando habilidades em:
 
 <!-- Tema Gruvbox -->
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=gruvbox)
+<!-- ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=gruvbox) ->
 
 <!-- Tema Monokai -->
 <!--![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=monokai)
