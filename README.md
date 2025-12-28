@@ -138,6 +138,4 @@ Estou continuamente reforçando habilidades em:
 <div align="center">
 
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=default)
-![Detalhes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=default)
-
 </div>
