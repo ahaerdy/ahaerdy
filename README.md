@@ -138,10 +138,8 @@ Estou continuamente reforçando habilidades em:
 ## 📊 Linguagens mais utilizadas
 
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaerdy&layout=compact&theme=dark&cache_seconds=1800&langs_count=8" 
-  alt="Linguagens mais utilizadas" 
-/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahaerdy&layout=compact&theme=dark&cache_seconds=86400)
+
 
 
 
