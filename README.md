@@ -133,8 +133,6 @@ Estou continuamente reforçando habilidades em:
 
 💡 Busco colaborar com soluções eficientes, éticas e bem estruturadas.
 
----
-
 <div align="center">
 
 <!-- Tema padrão -->
