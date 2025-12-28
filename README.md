@@ -132,3 +132,10 @@ Estou continuamente reforçando habilidades em:
 ---
 
 💡 Busco colaborar com soluções eficientes, éticas e bem estruturadas.
+
+---
+
+## 📊 Linguagens mais utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahaerdy&layout=compact&langs_count=8)
+
