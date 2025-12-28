@@ -149,7 +149,7 @@ Estou continuamente reforçando habilidades em:
 
 <!-- Tema Gruvbox -->
 
-<!-- ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox) -->
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox) 
 
 <!-- ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=gruvbox) ->
 
