@@ -140,3 +140,5 @@ Estou continuamente reforçando habilidades em:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahaerdy&layout=compact&theme=dark)
 
 
+
+
