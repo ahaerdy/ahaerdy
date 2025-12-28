@@ -123,7 +123,7 @@ Estou continuamente reforçando habilidades em:
 
 ---
 
-## 🧭 O que você encontrará aqui
+## O que você encontrará aqui
 
 📁 Projetos reais com escopo completo (infra, código, banco, lógica de acesso)  
 📁 Scripts utilitários, estudos de linguagem e experiências técnicas  
@@ -149,7 +149,7 @@ Estou continuamente reforçando habilidades em:
 
 <!-- Tema Gruvbox -->
 
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox) 
+<!-- ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox)  -->
 
 <!-- ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=gruvbox) ->
 
