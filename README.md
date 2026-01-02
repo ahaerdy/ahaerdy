@@ -178,3 +178,5 @@ Estou continuamente reforçando habilidades em:
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=tokyonight)--> 
 
 </div
+
+--- 📅 Última atualização: Janeiro/2026 ---
