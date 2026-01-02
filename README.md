@@ -98,6 +98,15 @@ Plataforma educacional com painel de acesso hierarquizado, gestão de conteúdo,
 
 ---
 
+## 📄 Curriculum Vitae
+
+Mantenho meu currículo atualizado em formato Markdown e compatível com sistemas ATS.  
+Você pode acessá-lo diretamente neste repositório:
+
+🔗 [Curriculum Vitae - Arthur Haerdy Jr](https://github.com/ahaerdy/curriculum-vitae-ahaerdy)
+
+---
+
 ## 📚 Estudos e desenvolvimento contínuo
 
 Estou continuamente reforçando habilidades em:
@@ -148,8 +157,7 @@ Estou continuamente reforçando habilidades em:
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=solarized_dark) -->
 
 <!-- Tema Gruvbox -->
-
-<!-- ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox)  -->
+<!-- ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox) -->
 
 <!-- ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=gruvbox) ->
 
