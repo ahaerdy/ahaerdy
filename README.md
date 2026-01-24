@@ -93,13 +93,6 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-## Projetos em destaque
-
-🔹 [Sistema Web Institucional](https://github.com/ahaerdy/sistema-web-institucional)  
-Plataforma educacional com painel de acesso hierarquizado, gestão de conteúdo, integração de pagamentos e suporte a centenas de usuários. Desenvolvido e mantido por mais de uma década.
-
----
-
 ## 📄 Curriculum Vitae
 
 Mantenho meu currículo atualizado em formato Markdown e compatível com sistemas ATS.  
