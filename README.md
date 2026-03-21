@@ -98,7 +98,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 ## Experiência técnica aplicada
 
 🔧 Administração de servidores Linux (CentOS, Debian, FreeBSD)  
-🔧 Desenvolvimento Web com PHP, HTML, JavaScript e MySQL  
+🔧 Desenvolvimento backend com Java/Spring Boot, Python e PHP
 🔧 Shell Script avançado e automação de processos  
 🔧 Integração com APIs REST (PagSeguro, PayPal)  
 🔧 Programação em linguagem C (incluindo aplicações em computação paralela)  
