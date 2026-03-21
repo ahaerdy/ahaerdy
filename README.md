@@ -38,9 +38,6 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 <div align="center">
 
   <!-- ☕ Backend Principal -->
-  <!-- <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> -->
 
   <!-- 🧠 Linguagens de Programação -->
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -134,10 +131,6 @@ Estou continuamente reforçando habilidades em:
   - [Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
   - [Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
   
-- [**Freecodecamp-Learning**](https://github.com/ahaerdy/Freecodecamp-Learning)  
-  Projetos e estudo das trilhas do FreeCodeCamp, com foco em desenvolvimento web, lógica e práticas essenciais.
-
-
 ---
 
 ## O que você encontrará aqui
