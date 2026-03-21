@@ -120,7 +120,7 @@ Você pode acessá-lo diretamente neste repositório:
 
 Estou continuamente reforçando habilidades em:
 
-- Desenvolvimento back-end moderno (Java/Spring Boot, Python, PHP)
+- Desenvolvimento backend moderno (Java/Spring Boot, Python, PHP)
 - Versionamento e colaboração com Git/GitHub
 - Práticas DevOps (Docker, automações)
 - Documentação técnica e arquitetura de sistemas
