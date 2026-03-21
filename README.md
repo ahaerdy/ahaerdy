@@ -151,7 +151,6 @@ Estou continuamente reforçando habilidades em:
 💡 Busco colaborar com soluções eficientes, éticas e bem estruturadas.
 
 <div align="center">
-
 <!-- Tema padrão -->
 <!--![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=default)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=default) -->
