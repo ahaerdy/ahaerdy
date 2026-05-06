@@ -133,7 +133,7 @@ Estou continuamente reforçando habilidades em:
   - Projetos:
       - HTML5/CSS3:
         - [Landing page com menu hamburguer e morphing menu (css)](https://github.com/ahaerdy/DIO-landing-page-com-menu-hamburguer-e-morphing-menu-css)
-      - Javascript (HTML5/CSS3)
+      - Javascript (HTML5, CSS3)
         - [DIO-jogo-da-memoria-html-css-javascript](https://github.com/ahaerdy/DIO-jogo-da-memoria-html-css-javascript)
       - Python:
         - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
