@@ -131,8 +131,9 @@ Estou continuamente reforçando habilidades em:
   - [Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
   - [Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
   <br>
-  __Projetos__:
-  - ...
+  - **Projetos**:
+    - aaaa
+    - bbbb
   
 ---
 
