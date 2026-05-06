@@ -132,11 +132,18 @@ Estou continuamente reforçando habilidades em:
   - [Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
   - Projetos:
       - Python:
-        - [Pacote Python para processamento de imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
+        - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
         - [Otimizando o Sistema Bancário com Funções Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python)
         - [Sistema Bancário com Python](https://github.com/ahaerdy/dio-sistema-bancario-python)
-  
+      - Power BI:
+        - [Relatório de Vendas e Lucros com Data Analytics com Power BI](https://github.com/ahaerdy/dio-relatorio-vendas-lucros-power-bi)
+        - [Dashboard Gerencial Financeiro com Power BI](https://github.com/ahaerdy/dio-powerbi-financial-dashboard)
+        - [Modelagem e Transformação de Dados com DAX no Power BI](https://github.com/ahaerdy/dio-powerbi-financials-star_schema)
+        - [Construção de Star Schema para Cenários Universitários](https://github.com/ahaerdy/dio-powerbi-star-schema-universidade)
+        - [Azure Company Dashboard](https://github.com/ahaerdy/azure-company-dashboard)
+        - [Relatório Estratégico de Performance com Power BI](https://github.com/ahaerdy/DIO-powerbi-financial-analysis)
+        - [Relatório de Vendas e Lucro com Power BI](https://github.com/ahaerdy/DIO-projeto-powerbi-financials)
 ---
 
 ## O que você encontrará aqui
