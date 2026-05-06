@@ -130,9 +130,11 @@ Estou continuamente reforçando habilidades em:
   - [Bootcamp Suzano Python Developer](https://github.com/ahaerdy/dio-learning/tree/main/Suzano%20-%20Python%20Developer)
   - [Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
   - [Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
-  - **Projetos**:
-      - aaaa
-      - bbbb
+  - Projetos:
+      - [Pacote Python para processamento de imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
+      - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
+      - [Otimizando o Sistema Bancário com Funções Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python)
+      - [Sistema Bancário com Python](https://github.com/ahaerdy/dio-sistema-bancario-python)
   
 ---
 
