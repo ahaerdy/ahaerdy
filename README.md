@@ -137,6 +137,8 @@ Estou continuamente reforçando habilidades em:
         - [DIO-jogo-da-memoria-html-css-javascript](https://github.com/ahaerdy/DIO-jogo-da-memoria-html-css-javascript)
       - ReactJS:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
+      - Java:
+        - [Banco Digital - Projeto Java POO](https://github.com/ahaerdy/lab-java-banco-digital)
       - Python:
         - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
