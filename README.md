@@ -139,6 +139,8 @@ Estou continuamente reforçando habilidades em:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
       - Java:
         - [Banco Digital - Projeto Java POO](https://github.com/ahaerdy/lab-java-banco-digital)
+      - Spring Framework
+        - [Explorando Padrões de Projeto na Prática com Java](https://github.com/ahaerdy/dio-design-patterns-java)
       - Python:
         - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
