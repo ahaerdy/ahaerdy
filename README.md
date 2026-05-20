@@ -126,9 +126,7 @@ Estou continuamente reforçando habilidades em:
 ### 🗺️ Roadmaps
 
 - **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**
-  - Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot 
-  - Autor: Arthur Haerdy
-  - Status: em desenvolvimento.
+  - Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot
 
 ### Repositórios de estudos
 
