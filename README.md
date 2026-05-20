@@ -127,7 +127,7 @@ Estou continuamente reforçando habilidades em:
 
 Trilhas estruturadas e documentadas:
 
-- **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)** (9 etapas / 79 tópicos)
+- **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**
 
 ### Repositórios de estudos
 
