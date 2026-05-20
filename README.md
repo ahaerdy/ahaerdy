@@ -126,7 +126,6 @@ Estou continuamente reforçando habilidades em:
 ### Roadmaps
 
 - **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**  
-  Trilha completa (9 etapas / 79 tópicos) para Desenvolvedor Java, baseada em roadmap.sh com adaptações e conteúdo próprio em português. Inclui fundamentos, OOP, Spring Boot, testes, etc. **Em construção ativa**.
 
 ### Repositórios de estudos
 
