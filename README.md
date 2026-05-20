@@ -125,10 +125,9 @@ Estou continuamente reforçando habilidades em:
 
 ### 🗺️ Roadmaps
 
-Trilhas estruturadas e documentadas:
-
 - **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**
-
+  Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot.
+  
 ### Repositórios de estudos
 
 - [**DIO-Learning**](https://github.com/ahaerdy/DIO-Learning)  
