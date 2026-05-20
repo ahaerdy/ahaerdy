@@ -123,12 +123,11 @@ Estou continuamente reforçando habilidades em:
 - Documentação técnica e arquitetura de sistemas
 - Experimentos com APIs, scripts de implantação e microsserviços
 
-### 🗺️ Roadmaps de Aprendizado
+### 🗺️ Roadmaps
 
 Trilhas estruturadas e documentadas:
 
-- **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**  
-  Trilha completa e **personalizada** (9 etapas / 79 tópicos)
+- **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)** (9 etapas / 79 tópicos)
 
 ### Repositórios de estudos
 
