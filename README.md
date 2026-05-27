@@ -130,7 +130,7 @@ Estou continuamente reforçando habilidades em:
 
 ### Projetos
 
-- **Java**
+- **☕ Java**
   - **[Task Tracker CLI](https://github.com/ahaerdy/task-tracker-cli-java/tree/main/tutorial)**
     <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de sistema de arquivos.
 
