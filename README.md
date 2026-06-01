@@ -186,7 +186,7 @@ Estou continuamente reforçando habilidades em:
 
 <!-- Tema GitHub Dark -->
 ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=github_dark)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=github_dark)
+<!-- ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=github_dark) -->
 
 <!-- Tema Solarized Dark -->
 <!--![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=solarized_dark)
