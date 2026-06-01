@@ -185,7 +185,7 @@ Estou continuamente reforçando habilidades em:
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=default) -->
 
 <!-- Tema GitHub Dark -->
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=github_dark)
+<!-- ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=github_dark) -->
 <!-- ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=github_dark) -->
 
 <!-- Tema Solarized Dark -->
@@ -193,7 +193,7 @@ Estou continuamente reforçando habilidades em:
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=solarized_dark) -->
 
 <!-- Tema Gruvbox -->
-<!-- ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox) -->
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=gruvbox)
 
 <!-- ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=gruvbox)  -->
 
