@@ -113,16 +113,6 @@ Você pode acessá-lo diretamente neste repositório:
 
 ---
 
-### 🛠️ Projetos
-
-- **☕ Java**
-  - **[Task Tracker CLI](https://github.com/ahaerdy/task-tracker-cli-java)**
-    <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de sistema de arquivos.
-  - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
-    <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
-
----
-
 ## 📚 Estudos e desenvolvimento contínuo
 
 Estou continuamente reforçando habilidades em:
@@ -138,11 +128,11 @@ Estou continuamente reforçando habilidades em:
 - **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**
   - Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot
 
-### Projetos
+### 🛠️ Projetos
 
 - **☕ Java**
   - **[Task Tracker CLI](https://github.com/ahaerdy/task-tracker-cli-java)**
-    <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de sistema de arquivos.
+    <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de arquivos.
   - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
