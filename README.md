@@ -153,7 +153,7 @@ Estou continuamente reforçando habilidades em:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
       - ☕ Java:
         - [Banco Digital - Projeto Java POO](https://github.com/ahaerdy/lab-java-banco-digital)
-        - Spring Framework
+        - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) Spring Framework
           - [Explorando Padrões de Projeto na Prática com Java](https://github.com/ahaerdy/dio-design-patterns-java)
           - [Beer Stock API - Gerenciamento de Estoque de Cerveja](https://github.com/ahaerdy/dio-beer-stock-api-testes-unitarios)
       - Python:
