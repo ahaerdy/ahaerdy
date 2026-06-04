@@ -125,9 +125,9 @@ Estou continuamente reforçando habilidades em:
 ### 🗺️ Roadmaps
 
 - **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**
-  - Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot
+  - Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot.
   - **[Desafios de Programação em Java](https://github.com/ahaerdy/hackerrank-java-challenges)**
-    - Soluções comentadas dos desafios de Java do HackerRank, organizadas por categoria
+    - Soluções comentadas dos desafios de Java do HackerRank, organizadas por categoria.
 
 ### 🛠️ Projetos
 
