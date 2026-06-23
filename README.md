@@ -142,8 +142,7 @@ Estou continuamente reforçando habilidades em:
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa leve e integração de APIs, contendo:
     - **Interpretador BF:** Interpretador da linguagem esotérica Brainfuck escrito 100% em Python puro.
     - **YouTube Playlist Client:** Extrator automatizado de dados de vídeo via API do YouTube.
-  - **[Consolidadores Obsidian](https://github.com/ahaerdy/python-scripts)**
-    <br>Ecossistema de scripts em Python desenvolvidos para automação de conhecimento e parsing de dados locais (Métricas Diárias, Notas de Pessoas e Fichas Profissionais).
+    - **Consolidadores Obsidian** Ecossistema de scripts em Python desenvolvidos para automação de conhecimento e parsing de dados locais (Métricas Diárias, Notas de Pessoas e Fichas Profissionais).
 
 
 ### Repositórios de estudos
