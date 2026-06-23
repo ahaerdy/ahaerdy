@@ -157,7 +157,7 @@ Estou continuamente reforçando habilidades em:
         - 🌱 Spring Framework
           - [Explorando Padrões de Projeto na Prática com Java](https://github.com/ahaerdy/dio-design-patterns-java)
           - [Beer Stock API - Gerenciamento de Estoque de Cerveja](https://github.com/ahaerdy/dio-beer-stock-api-testes-unitarios)
-      - Python:
+      - 🐍 Python:
         - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
         - [Otimizando o Sistema Bancário com Funções Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python)
