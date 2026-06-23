@@ -139,8 +139,8 @@ Estou continuamente reforçando habilidades em:
 
 - **🐍 Python (Ferramentas & Automação)**
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
-    <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa leve e integração de APIs, contendo:
-    - **Interpretador BF:** Interpretador da linguagem esotérica Brainfuck escrito 100% em Python puro.
+    <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
+    - **Interpretador BF:** Interpretador da linguagem BF escrito 100% em Python puro.
     - **YouTube Playlist Client:** Extrator automatizado de dados de vídeo via API do YouTube.
     - **Consolidadores Obsidian** Ecossistema de scripts em Python desenvolvidos para automação de conhecimento e parsing de dados locais (Métricas Diárias, Notas de Pessoas e Fichas Profissionais).
 
