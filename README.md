@@ -137,7 +137,7 @@ Estou continuamente reforçando habilidades em:
   - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
-- <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/PYTHON.png?raw=true" width="20"/> **Python (Ferramentas & Automação)**
+- <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/PYTHON.png?raw=true" width="18"/> **Python (Ferramentas & Automação)**
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
     - **Interpretador BF:** Interpretador da linguagem BF escrito 100% em Python puro.
@@ -164,7 +164,7 @@ Estou continuamente reforçando habilidades em:
         - 🌱 Spring Framework
           - [Explorando Padrões de Projeto na Prática com Java](https://github.com/ahaerdy/dio-design-patterns-java)
           - [Beer Stock API - Gerenciamento de Estoque de Cerveja](https://github.com/ahaerdy/dio-beer-stock-api-testes-unitarios)
-      - 🐍 Python:
+      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/PYTHON.png?raw=true" width="18"/> Python:
         - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
         - [Otimizando o Sistema Bancário com Funções Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python)
