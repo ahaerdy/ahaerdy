@@ -157,7 +157,7 @@ Estou continuamente reforçando habilidades em:
         - [Landing page com menu hamburguer e morphing menu (css)](https://github.com/ahaerdy/DIO-landing-page-com-menu-hamburguer-e-morphing-menu-css)
       - Javascript (HTML5, CSS3)
         - [DIO-jogo-da-memoria-html-css-javascript](https://github.com/ahaerdy/DIO-jogo-da-memoria-html-css-javascript)
-      - ReactJS:
+      - <img src="000-Midia_e_Anexos/2026-06-29-12-48-17.png" alt="" width="18">ReactJS:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
       - ☕ Java:
         - [Banco Digital - Projeto Java POO](https://github.com/ahaerdy/lab-java-banco-digital)
