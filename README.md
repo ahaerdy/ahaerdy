@@ -134,7 +134,7 @@ Estou continuamente reforçando habilidades em:
 - **☕ Java**
   - **[Task Tracker CLI](https://github.com/ahaerdy/task-tracker-cli-java)**
     <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de arquivos.
-  - <img src="000-Midia_e_Anexos/2026-06-29-13-47-45.png?raw=true" height="18"/> **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
+  - <img src="000-Midia_e_Anexos/2026-06-29-13-47-45.png?raw=true" height="15"/> **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
 - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> **Python (Ferramentas & Automação)**
