@@ -134,13 +134,13 @@ Estou continuamente reforçando habilidades em:
 - **☕ Java**
   - **[Task Tracker CLI](https://github.com/ahaerdy/task-tracker-cli-java)**
     <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de arquivos.
-  - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
+  - <img src="000-Midia_e_Anexos/2026-06-29-13-47-45.png?raw=true" height="18"/> **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
-- <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" width="18"/> **Python (Ferramentas & Automação)**
+- <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> **Python (Ferramentas & Automação)**
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
-    - **Interpretador BF:** Interpretador da linguagem BF escrito 100% em Python puro.
+    - **Interpretador BF:** Interpretador da linguagem <img src="000-Midia_e_Anexos/2026-06-29-13-43-35.png?raw=true" height="18"/> BF escrito 100% em Python puro.
     - **YouTube Playlist Client:** Extrator automatizado de dados de vídeo via API do YouTube.
     - **Consolidadores Obsidian** Ecossistema de scripts em Python desenvolvidos para automação de conhecimento e parsing de dados locais (Métricas Diárias, Notas de Pessoas e Fichas Profissionais).
 
@@ -154,16 +154,16 @@ Estou continuamente reforçando habilidades em:
   - **Projetos**:
       - <img src="000-Midia_e_Anexos/2026-06-29-13-35-13.png?raw=true" height="18"/><img src="000-Midia_e_Anexos/2026-06-29-13-35-30.png?raw=true" height="18"/> HTML5/CSS3:
         - [Landing page com menu hamburguer e morphing menu (css)](https://github.com/ahaerdy/DIO-landing-page-com-menu-hamburguer-e-morphing-menu-css)
-      - <img src="000-Midia_e_Anexos/2026-06-29-13-38-27.png?raw=true" width="18"/> Javascript (HTML5, CSS3)
+      - <img src="000-Midia_e_Anexos/2026-06-29-13-38-27.png?raw=true" height="18"/> Javascript (HTML5, CSS3)
         - [DIO-jogo-da-memoria-html-css-javascript](https://github.com/ahaerdy/DIO-jogo-da-memoria-html-css-javascript)
-      - <img src="000-Midia_e_Anexos/2026-06-29-12-52-17.png" alt="" width="18">ReactJS:
+      - <img src="000-Midia_e_Anexos/2026-06-29-12-52-17.png" alt="" height="18">ReactJS:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
       - ☕ Java:
         - [Banco Digital - Projeto Java POO](https://github.com/ahaerdy/lab-java-banco-digital)
         - 🌱 Spring Framework
           - [Explorando Padrões de Projeto na Prática com Java](https://github.com/ahaerdy/dio-design-patterns-java)
           - [Beer Stock API - Gerenciamento de Estoque de Cerveja](https://github.com/ahaerdy/dio-beer-stock-api-testes-unitarios)
-      - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" width="18"/> Python:
+      - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> Python:
         - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
         - [Otimizando o Sistema Bancário com Funções Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python)
