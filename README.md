@@ -169,7 +169,7 @@ Estou continuamente reforçando habilidades em:
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
         - [Otimizando o Sistema Bancário com Funções Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python)
         - [Sistema Bancário com Python](https://github.com/ahaerdy/dio-sistema-bancario-python)
-      - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" width="18"/> Power BI:
+      - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" width="18" style="fill:#F2C811;"/> Power BI:
         - [Relatório de Vendas e Lucros com Data Analytics com Power BI](https://github.com/ahaerdy/dio-relatorio-vendas-lucros-power-bi)
         - [Dashboard Gerencial Financeiro com Power BI](https://github.com/ahaerdy/dio-powerbi-financial-dashboard)
         - [Modelagem e Transformação de Dados com DAX no Power BI](https://github.com/ahaerdy/dio-powerbi-financials-star_schema)
