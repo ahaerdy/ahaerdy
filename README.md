@@ -155,7 +155,8 @@ Estou continuamente reforçando habilidades em:
   - **Projetos**:
       - HTML5/CSS3:
         - [Landing page com menu hamburguer e morphing menu (css)](https://github.com/ahaerdy/DIO-landing-page-com-menu-hamburguer-e-morphing-menu-css)
-      - Javascript (HTML5, CSS3)
+      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/JAVASCRIPT.png
+?raw=true" width="18"/>Javascript (HTML5, CSS3)
         - [DIO-jogo-da-memoria-html-css-javascript](https://github.com/ahaerdy/DIO-jogo-da-memoria-html-css-javascript)
       - <img src="000-Midia_e_Anexos/2026-06-29-12-52-17.png" alt="" width="18">ReactJS:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
