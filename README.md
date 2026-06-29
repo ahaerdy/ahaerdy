@@ -137,13 +137,12 @@ Estou continuamente reforçando habilidades em:
   - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
-- <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/PYTHON.png?raw=true" width="18"/> **Python (Ferramentas & Automação)**
+- <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" width="18"/> **Python (Ferramentas & Automação)**
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
     - **Interpretador BF:** Interpretador da linguagem BF escrito 100% em Python puro.
     - **YouTube Playlist Client:** Extrator automatizado de dados de vídeo via API do YouTube.
     - **Consolidadores Obsidian** Ecossistema de scripts em Python desenvolvidos para automação de conhecimento e parsing de dados locais (Métricas Diárias, Notas de Pessoas e Fichas Profissionais).
-
 
 ### Repositórios de estudos
 
@@ -153,9 +152,9 @@ Estou continuamente reforçando habilidades em:
   - [Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
   - [Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
   - **Projetos**:
-      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/HTML.png?raw=true" width="18"/><img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/CSS.png?raw=true" width="18"/> HTML5/CSS3:
+      - <img src="000-Midia_e_Anexos/2026-06-29-13-35-13.png?raw=true" height="18"/><img src="000-Midia_e_Anexos/2026-06-29-13-35-30.png?raw=true" height="18"/> HTML5/CSS3:
         - [Landing page com menu hamburguer e morphing menu (css)](https://github.com/ahaerdy/DIO-landing-page-com-menu-hamburguer-e-morphing-menu-css)
-      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/JAVASCRIPT.png?raw=true" width="18"/> Javascript (HTML5, CSS3)
+      - <img src="000-Midia_e_Anexos/2026-06-29-13-38-27.png?raw=true" width="18"/> Javascript (HTML5, CSS3)
         - [DIO-jogo-da-memoria-html-css-javascript](https://github.com/ahaerdy/DIO-jogo-da-memoria-html-css-javascript)
       - <img src="000-Midia_e_Anexos/2026-06-29-12-52-17.png" alt="" width="18">ReactJS:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
@@ -164,7 +163,7 @@ Estou continuamente reforçando habilidades em:
         - 🌱 Spring Framework
           - [Explorando Padrões de Projeto na Prática com Java](https://github.com/ahaerdy/dio-design-patterns-java)
           - [Beer Stock API - Gerenciamento de Estoque de Cerveja](https://github.com/ahaerdy/dio-beer-stock-api-testes-unitarios)
-      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/PYTHON.png?raw=true" width="18"/> Python:
+      - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" width="18"/> Python:
         - [Pacote Python para Processamento de Imagens](https://github.com/ahaerdy/processamento-imagens-ahaerdy)
         - [Modelando o Sistema Bancário em POO com Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-em-poo-com-python/tree/main#)
         - [Otimizando o Sistema Bancário com Funções Python](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python)
