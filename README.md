@@ -137,7 +137,7 @@ Estou continuamente reforçando habilidades em:
   - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
-- ** <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> Python (Ferramentas & Automação)**
+- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> **(Ferramentas & Automação)**
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
     - **Interpretador BF:** Interpretador da linguagem BF escrito 100% em Python puro.
