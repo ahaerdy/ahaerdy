@@ -129,10 +129,6 @@ Estou continuamente reforçando habilidades em:
   - **[Desafios de Programação em Java](https://github.com/ahaerdy/hackerrank-java-challenges)**
     - Soluções comentadas dos desafios de Java do HackerRank, organizadas por categoria.
 
-<p align="center">
-  <img src="000-Midia_e_Anexos/2026-06-29-13-58-15.png" alt="" width="480">
-</p>
-
 ### 🛠️ Projetos
 
 - **☕ Java**
