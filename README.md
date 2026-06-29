@@ -137,7 +137,7 @@ Estou continuamente reforçando habilidades em:
   - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
-- <img src="https://www.python.org/static/community_logos/python-logo.png" width="20"/> 
+- <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20white/small/PYTHON.png?raw=true" width="20"/> 
 **🐍 Python (Ferramentas & Automação)**
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
