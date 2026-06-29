@@ -129,12 +129,16 @@ Estou continuamente reforçando habilidades em:
   - **[Desafios de Programação em Java](https://github.com/ahaerdy/hackerrank-java-challenges)**
     - Soluções comentadas dos desafios de Java do HackerRank, organizadas por categoria.
 
+<p align="center">
+  <img src="000-Midia_e_Anexos/2026-06-29-13-58-15.png" alt="" width="480">
+</p>
+
 ### 🛠️ Projetos
 
 - **☕ Java**
   - **[Task Tracker CLI](https://github.com/ahaerdy/task-tracker-cli-java)**
     <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de arquivos.
-  - <img src="000-Midia_e_Anexos/2026-06-29-13-47-45.png?raw=true" height="15"/> **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
+  - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
 - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> **Python (Ferramentas & Automação)**
@@ -160,7 +164,7 @@ Estou continuamente reforçando habilidades em:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
       - ☕ Java:
         - [Banco Digital - Projeto Java POO](https://github.com/ahaerdy/lab-java-banco-digital)
-        - 🌱 Spring Framework
+        - Spring Framework
           - [Explorando Padrões de Projeto na Prática com Java](https://github.com/ahaerdy/dio-design-patterns-java)
           - [Beer Stock API - Gerenciamento de Estoque de Cerveja](https://github.com/ahaerdy/dio-beer-stock-api-testes-unitarios)
       - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> Python:
