@@ -153,10 +153,9 @@ Estou continuamente reforçando habilidades em:
   - [Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
   - [Bootcamp TQI Fullstack Developer](https://github.com/ahaerdy/DIO-learning/tree/main/TQI%20Fullstack%20Developer)
   - **Projetos**:
-      - HTML5/CSS3:
+      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/HTML.png?raw=true" width="18"/><img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/CSS.png?raw=true" width="18"/> HTML5/CSS3:
         - [Landing page com menu hamburguer e morphing menu (css)](https://github.com/ahaerdy/DIO-landing-page-com-menu-hamburguer-e-morphing-menu-css)
-      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/JAVASCRIPT.png
-?raw=true" width="18"/>Javascript (HTML5, CSS3)
+      - <img src="https://github.com/octavio-oi/Language-Logo-List/blob/main/background%20transparent/small/JAVASCRIPT.png?raw=true" width="18"/> Javascript (HTML5, CSS3)
         - [DIO-jogo-da-memoria-html-css-javascript](https://github.com/ahaerdy/DIO-jogo-da-memoria-html-css-javascript)
       - <img src="000-Midia_e_Anexos/2026-06-29-12-52-17.png" alt="" width="18">ReactJS:
         - [GitHub Profile Viewer](https://github.com/ahaerdy/DIO-github-profile-viewer-tqi-fullstack)
