@@ -122,13 +122,6 @@ Estou continuamente reforçando habilidades em:
 - Documentação técnica e arquitetura de sistemas
 - Experimentos com APIs, scripts de implantação e microsserviços
 
-### 🗺️ Roadmaps
-
-- **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**
-  - Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot.
-  - **[Desafios de Programação em Java](https://github.com/ahaerdy/hackerrank-java-challenges)**
-    - Soluções comentadas dos desafios de Java do HackerRank, organizadas por categoria.
-
 ### 🛠️ Projetos
 
 - **☕ Java**
@@ -145,6 +138,13 @@ Estou continuamente reforçando habilidades em:
     - **Interpretador BF:** Interpretador da linguagem  BF escrito 100% em Python puro.
     - **YouTube Playlist Client:** Extrator automatizado de dados de vídeo via API do YouTube.
     - **Consolidadores Obsidian** Ecossistema de scripts em Python desenvolvidos para automação de conhecimento e parsing de dados locais (Métricas Diárias, Notas de Pessoas e Fichas Profissionais).
+
+### 🗺️ Roadmaps
+
+- **[☕ Roadmap Java](https://github.com/ahaerdy/roadmap_java)**
+  - Trilha completa e personalizada (9 etapas / 79 tópicos) para Desenvolvedor Java + Spring Boot.
+  - **[Desafios de Programação em Java](https://github.com/ahaerdy/hackerrank-java-challenges)**
+    - Soluções comentadas dos desafios de Java do HackerRank, organizadas por categoria.
 
 ### **Bootcamps** e **Cursos**
 
