@@ -132,7 +132,7 @@ Estou continuamente reforçando habilidades em:
 ### 🛠️ Projetos
 
 - **☕ Java**
-  - **[eCommerce Api](https://github.com/ahaerdy/ecommerce-api)**
+  - **[E-commerce API](https://github.com/ahaerdy/ecommerce-api)**
     <br>API REST para sistema de e-commerce desenvolvida com Spring Boot, JPA/Hibernate, Flyway e MySQL. Foco em persistência de dados, versionamento de schema e boas práticas de arquitetura.
   - **[Task Tracker CLI](https://github.com/ahaerdy/task-tracker-cli-java)**
     <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de arquivos.
