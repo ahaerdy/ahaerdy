@@ -133,7 +133,7 @@ Estou continuamente reforçando habilidades em:
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
 
 - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> **Python (Ferramentas & Automação)**
-  - [Pipeline de Produção de Material Didático](https://github.com/ahaerdy/classnotes-pipeline-toolkit)
+  - **[Pipeline de Produção de Material Didático](https://github.com/ahaerdy/classnotes-pipeline-toolkit)**
     <br>Sistema de automação que transforma gravações em vídeo brutas em documentos Markdown estruturados para repositórios de estudos. Combina ffmpeg/bash para extração de áudio e manipulação de vídeo com scripts python para OCR, classificação de imagens e geração de relatórios.
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
