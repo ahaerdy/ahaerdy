@@ -134,7 +134,7 @@ Estou continuamente reforçando habilidades em:
 
 - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> **Python (Ferramentas & Automação)**
   - [Pipeline de Produção de Material Didático](https://github.com/ahaerdy/classnotes-pipeline-toolkit)
-    <br>Sistema de automação ponta a ponta que transforma gravações brutas de aulas em documentos Markdown estruturados para Obsidian. Combina ffmpeg/bash para extração de áudio e manipulação de vídeo com scripts python para OCR, classificação de imagens e geração de relatórios.
+    <br>Sistema de automação que transforma gravações em vídeo brutas em documentos Markdown estruturados para repositórios de estudos. Combina ffmpeg/bash para extração de áudio e manipulação de vídeo com scripts python para OCR, classificação de imagens e geração de relatórios.
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
     <br>Repositório centralizado de scripts focados em utilitários, engenharia reversa e integração de APIs, contendo:
     - **Interpretador BF:** Interpretador da linguagem  BF escrito 100% em Python puro.
