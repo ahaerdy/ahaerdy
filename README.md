@@ -144,7 +144,7 @@ Estou continuamente reforçando habilidades em:
     - **YouTube Playlist Client:** Extrator automatizado de dados de vídeo via API do YouTube.
     - **Consolidadores Obsidian** Ecossistema de scripts em Python desenvolvidos para automação de conhecimento e parsing de dados locais (Métricas Diárias, Notas de Pessoas e Fichas Profissionais).
 
-### **Cursos**
+### **Bootcamps** e **Cursos**
 
 - [**DIO-Learning**](https://github.com/ahaerdy/DIO-Learning)  
   Espaço onde documento minha jornada de aprendizado na plataforma Digital Innovation One (DIO). <br>
