@@ -136,6 +136,9 @@ Estou continuamente reforçando habilidades em:
     <br>Gerenciador de tarefas via linha de comando que utiliza persistência em JSON e manipulação nativa de arquivos (sem bibliotecas externas), focado em lógica de backend e manipulação de arquivos.
   - **[Obsidian Daily Note](https://github.com/ahaerdy/obsidian-daily-note)**
     <br>Ferramenta CLI em Java que automatiza a criação da nota diária no Obsidian.
+  - [ECommerce Api](https://github.com/ahaerdy/ecommerce-api)
+    <br>API REST para sistema de e-commerce desenvolvida com Spring Boot, JPA/Hibernate, Flyway e MySQL. Foco em persistência de dados, versionamento de schema e boas práticas de arquitetura.
+
 
 - <img src="000-Midia_e_Anexos/2026-06-29-13-33-35.png?raw=true" height="18"/> **Python (Ferramentas & Automação)**
   - **[Python Scripts Repo](https://github.com/ahaerdy/python-scripts)**
