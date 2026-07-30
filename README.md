@@ -227,4 +227,6 @@ Estou continuamente reforçando habilidades em:
 <!--![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahaerdy&theme=tokyonight)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahaerdy&theme=tokyonight)--> 
 
+![card](https://github-readme-stats-one-khaki.vercel.app/api?username=Waldst0n&theme=default)
+
 </div>
