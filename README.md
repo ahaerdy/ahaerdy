@@ -89,7 +89,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 </div>
 
----
+<!-- ---
 
 ## Experiência técnica aplicada
 
@@ -101,7 +101,7 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 - 🔧 Estruturação de portais e sistemas com controle de acesso e múltiplos níveis de permissão  
 - 🔧 Implantação de ambientes seguros com firewall, autenticação e estrutura modular
 
----
+--- -->
 
 <!-- ## 📄 Curriculum Vitae
 
