@@ -1,6 +1,6 @@
 # Arthur Haerdy Jr 
 
-Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistemas, administração de servidores Linux e integração de soluções de infraestrutura com software. Atuei em projetos de engenharia, telecomunicações, pesquisa científica aplicada e desenvolvimento institucional com foco em tecnologia educacional.
+Sou Engenheiro Eletrônico com sólida experiência em desenvolvimento de sistemas, administração de servidores Linux e integração de soluções de infraestrutura com software. Ao longo da minha trajetória, atuei em projetos de engenharia, telecomunicações, pesquisa científica aplicada e desenvolvimento institucional com foco em tecnologia educacional.
 
 Tenho especial interesse em projetos que envolvam backend, automação, integração de APIs e arquitetura Linux. Atualmente, mantenho este espaço como um repositório técnico para divulgar projetos reais, organizar estudos de linguagem e compartilhar boas práticas.
 
@@ -57,35 +57,35 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
   <!-- 🗄️ Banco de Dados e Dados -->
-  <!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> -->
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
   <!-- 🐧 Distribuições Linux -->
-  <!-- <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" /> -->
+  <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" />
 
   <!-- 🔐 Infraestrutura e Segurança -->
-  <!-- <img alt="iptables" src="https://img.shields.io/badge/iptables-FIREWALL?style=for-the-badge&logo=linux&logoColor=white&color=orange" />
+  <img alt="iptables" src="https://img.shields.io/badge/iptables-FIREWALL?style=for-the-badge&logo=linux&logoColor=white&color=orange" />
   <img alt="Squid Proxy" src="https://img.shields.io/badge/Squid_Proxy-232F3E?style=for-the-badge&logo=linux&logoColor=white" />
   <img alt="Samba" src="https://img.shields.io/badge/Samba-1D222D?style=for-the-badge&logo=samba&logoColor=white" />
-  <img alt="NFS" src="https://img.shields.io/badge/NFS-204A87?style=for-the-badge&logo=linux&logoColor=white" /> -->
+  <img alt="NFS" src="https://img.shields.io/badge/NFS-204A87?style=for-the-badge&logo=linux&logoColor=white" />
 
   <!-- 🧰 Serviços e Protocolos -->
-  <!-- <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img alt="Postfix" src="https://img.shields.io/badge/Postfix-EA3C00?style=for-the-badge&logo=gnu&logoColor=white" />
   <img alt="FTP" src="https://img.shields.io/badge/FTP-00457C?style=for-the-badge&logo=ftp&logoColor=white" />
   <img alt="DNS BIND" src="https://img.shields.io/badge/BIND-DNS?style=for-the-badge&logo=linux&logoColor=white&color=blue" />
-  <img alt="XMPP" src="https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=white" /> -->
+  <img alt="XMPP" src="https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=white" />
 
   <!-- 🛠️ Ferramentas DevOps e Colaboração -->
-  <!-- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> -->
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
@@ -103,12 +103,12 @@ Tenho especial interesse em projetos que envolvam backend, automação, integra�
 
 ---
 
-<!-- ## 📄 Curriculum Vitae
+## 📄 Curriculum Vitae
 
 Mantenho meu currículo atualizado em formato Markdown e compatível com sistemas ATS.  
 Você pode acessá-lo diretamente neste repositório:
 
-🔗 [Curriculum Vitae - Arthur Haerdy Jr](https://github.com/ahaerdy/curriculum-vitae-ahaerdy) -->
+🔗 [Curriculum Vitae - Arthur Haerdy Jr](https://github.com/ahaerdy/curriculum-vitae-ahaerdy)
 
 ---
 
